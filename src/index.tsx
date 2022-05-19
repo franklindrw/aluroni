@@ -1,10 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+import Cardapio from "./pages/Cardapio";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <div>Aluroni</div>
-  </React.StrictMode>,
-  document.getElementById('root')
+    <React.StrictMode>
+        <Cardapio />
+    </React.StrictMode>,
+    document.getElementById("root")
 );
