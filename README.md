@@ -36,7 +36,7 @@ O objetivo do projeto foi cirar um site de catálogo de um restaurante, usando R
 <br /><br />
 
 ## 📥 Instalação
-(não é necessário instalação, é possível acessar a aplicação no link: https://franklindrw.github.io/Aluraflix)
+(não é necessário instalação, é possível acessar a aplicação no link: https://aluroni-six.vercel.app)
 
  1. Clone o repositório
 
