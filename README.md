@@ -17,7 +17,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | Aluroni
 | :label: Tecnologias | React, Typescript, Sass
-| :rocket: URL         | 
+| :rocket: URL         | aluroni-six.vercel.app
 | :fire: Desafio     | Criar uma página de cardápio para um restaurante fictício
 
 <br /><br />
