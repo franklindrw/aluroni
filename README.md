@@ -13,6 +13,15 @@
 
 <br /><br />
 
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/franklindrw |
+| -------------  | --- |
+| :sparkles: Nome        | Aluroni
+| :label: Tecnologias | React, Typescript, Sass
+| :rocket: URL         | 
+| :fire: Desafio     | Criar uma página de cardápio para um restaurante fictício
+
+<br /><br />
+
 ## 🔎 Sobre o Projeto
 
 Este recurso foi criado para colocar em prática os conhecimentos adquiridos nos curso de React com Typescript da Alura de um projeto Front-end Web.
@@ -20,7 +29,7 @@ Este recurso foi criado para colocar em prática os conhecimentos adquiridos nos
 O objetivo do projeto foi cirar um site de catálogo de um restaurante, usando React e typescript. Com esse projeto fui capaz de englobar os conceitos de: Ultilizar classnames para poder utilizar o CSS Modules sem precisar concatenar estilos. Como o React faz os absolutes imports para acessar os arquivos do projeto. Como utilizar Props para declarar a tipagem e passar informações entre os componentes, assim criando os filtros para controlar o array de produtos do site.
 
 <br /><br />
-![aluroni1](https://user-images.githubusercontent.com/81038899/174697670-ca1dbd7e-4d25-4dad-b074-e78f249d3e5e.png)
+![aluroni1](https://user-images.githubusercontent.com/81038899/174697670-ca1dbd7e-4d25-4dad-b074-e78f249d3e5e.png#vitrinedev)
 ![Aluroni](https://user-images.githubusercontent.com/81038899/174697514-fba99e2c-a598-4cd6-99a9-50dbe9b6ff24.gif)
 ![Aluroni 2](https://user-images.githubusercontent.com/81038899/174697520-24a5850a-aecd-4dd4-a21c-37cca9bd5581.gif)
 ![Aluroni 3](https://user-images.githubusercontent.com/81038899/174697529-14aa2648-4adc-4b29-bd98-50a7f39d9ab5.gif)
